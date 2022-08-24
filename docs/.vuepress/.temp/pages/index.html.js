@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"Hello VuePress\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1660393251000,\"contributors\":[{\"name\":\"FanGe\",\"email\":\"653398363@qq.com\",\"commits\":1}]},\"filePathRelative\":\"README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"heroText\":\"Lfange Blog!\",\"tagline\":\"Hero 副标题2\",\"actionText\":\"11 →\",\"actionLink\":\"/vue3/\",\"features\":[{\"title\":\"简洁至上\",\"details\":\"以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。\"},{\"title\":\"简洁至上\",\"details\":\"以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。\"},{\"title\":\"简洁至上\",\"details\":\"以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。\"}],\"footer\":\"MIT Licensed | Copyright © 2018-present Evan You\"},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1660393251000,\"contributors\":[{\"name\":\"FanGe\",\"email\":\"653398363@qq.com\",\"commits\":1}]},\"filePathRelative\":\"README.md\"}")

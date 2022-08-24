@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-48e19ebc\",\"path\":\"/Front/Vue/comp.html\",\"title\":\"组件开发是否是越细越好\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[{\"level\":3,\"title\":\"精选评论\",\"slug\":\"精选评论\",\"children\":[]}],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"Front/Vue/comp.md\"}")
